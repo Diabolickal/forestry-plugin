@@ -1,13 +1,13 @@
-package com.example;
+package com.forestryhelper;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ExamplePluginTest
+public class ForestryHelperTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(ExamplePlugin.class);
+		ExternalPluginManager.loadBuiltin(ForestryHelperPlugin.class);
 		RuneLite.main(args);
 	}
 }
