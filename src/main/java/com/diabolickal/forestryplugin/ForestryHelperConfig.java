@@ -1,4 +1,4 @@
-package com.forestryhelper;
+package com.diabolickal.forestryplugin;
 
 import java.awt.Color;
 import net.runelite.client.config.Alpha;

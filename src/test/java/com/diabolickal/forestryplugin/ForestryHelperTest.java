@@ -1,4 +1,4 @@
-package com.forestryhelper;
+package com.diabolickal.forestryplugin;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

@@ -1,4 +1,4 @@
-package com.forestryhelper;
+package com.diabolickal.forestryplugin;
 
 import com.google.inject.Provides;
 import java.awt.image.BufferedImage;

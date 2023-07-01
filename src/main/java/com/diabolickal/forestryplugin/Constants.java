@@ -1,4 +1,4 @@
-package com.forestryhelper;
+package com.diabolickal.forestryplugin;
 
 public final class Constants {
 
