@@ -105,6 +105,7 @@ public class ForestryHelperPlugin extends Plugin {
 	@Override
 	protected void shutDown() throws Exception {
 		reset();
+		overlayManager.remove(forestryOverlay);
 	}
 
 	@Subscribe
